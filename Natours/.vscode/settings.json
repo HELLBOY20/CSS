@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "files.trimFinalNewlines": true
+}
